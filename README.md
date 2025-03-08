@@ -21,18 +21,4 @@ Because…
 🤖 I talk **to my code like it understands me** (it doesn’t... yet).  
 🚀 Let’s **build, break, fix, and learn together!**  
 
----
-### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)  
-
----
-### 🌍 **Let's Connect!**
-📩 **Ask me anything tech-related!**  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
-🐦 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/your-profile)  
-🖥️ [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://yourportfolio.com)  
-
----
 **⭐ If you read this far, you’re awesome! Consider starring my repos and let’s build something cool together!** 😄 🚀
