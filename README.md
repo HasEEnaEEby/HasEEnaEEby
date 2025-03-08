@@ -1,23 +1,22 @@
 # 👋 Hey, I'm Haseena!
 
 🚀 **Final Year Student | Web & Mobile Developer | React | Flutter | Node.js**  
-👩‍💻 **Lifelong Learner | Debugging Detective | Code Sorcerer**  
+**Lifelong Learner | Debugging Detective | Code Sorcerer**  
 
----
 ### ⚡ **A Little About Me**
 I'm an **eternally curious developer** who thrives on learning, breaking things (intentionally, of course 🤓), and building **simple yet powerful** applications.   
 I **believe in clean code**, productive debugging, and the *sacred art of Googling* like a pro.  
 
-💡 **If you ever have questions about web or mobile development—fire away!** 🔥  
+**If you ever have questions about web or mobile development—fire away!** 🔥  
 I may not have all the answers, but I promise an enthusiastic **Stack Overflow search session.** 😆  
 
 ---
-### 🛠️ **What I Do**
-🚀 **Web Development:** React, Next.js, Tailwind CSS  
-📱 **Mobile Development:** Flutter & Dart  
-🛠 **Backend Wizardry:** Node.js, Express, MongoDB  
-📌 **Learning:** Scaling Apps, Clean Code, Agile Methodologies  
-💬 **Side Quest:** Finding the perfect **coffee-to-code ratio.** ☕  
+### **What I Do**
+**Web Development:** React, Next.js, Tailwind CSS  
+**Mobile Development:** Flutter & Dart  
+**Backend Wizardry:** Node.js, Express, MongoDB  
+**Learning:** Scaling Apps, Clean Code, Agile Methodologies  
+**Side Quest:** Finding the perfect **coffee-to-code ratio.** ☕  
 
 ---
 ### 🤝 **Why Connect With Me?**
@@ -55,8 +54,6 @@ Because…
 ---
 ### 🌍 **Let's Connect!**
 📩 **Ask me anything tech-related!** (or recommend a good Netflix show!)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/haseena-kc-khartri-336ba7307/)  
-💬 [![Discord](https://img.shields.io/badge/Discord-Chat-blue?logo=discord)](https://discord.com/channels/1252636396162781246)  
 📧 **Email:** [eesah479@gmail.com](mailto:eesah479@gmail.com)  
 
 ---
