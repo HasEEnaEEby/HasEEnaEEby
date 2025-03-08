@@ -24,10 +24,10 @@ Because…
 
 🎓 I'm **still learning, but always happy to help!**  
 🧐 I **love debugging—except when it’s Friday at 5 PM.** 😅  
-🤖 I **talk to my code like it’s my pet.** (Still waiting for it to respond…)  
-🔥 **Let’s build something amazing, break it, and fix it together!**  
+I **talk to my code like it’s my pet.** (Still waiting for it to respond…)  
+**Let’s build something amazing, break it, and fix it together!**  
 
-## 📊 **GitHub Stats & Activity**
+## **GitHub Stats & Activity**
 <div align="center">
 
   🏆 **GitHub Achievements Unlocked** 🏆  
@@ -54,7 +54,7 @@ Because…
 
 ---
 ### 💡 **Fun Fact**
-💻 I started coding thinking I'd build the next big app… instead, I spent hours debugging missing semicolons.  
+💻 I started coding thinking I'd build the next big apps and exciting websites … instead, I spent hours staring my code 💵.  
 But hey, that’s how legends are born, right? 😆  
 
 ---
