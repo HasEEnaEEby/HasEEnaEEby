@@ -36,8 +36,6 @@ Because…
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=HasEEnaEEby&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasEEnaEEby&theme=radical" height="180px" />
-  
   <br/>
   
   🎨 **My Code Language DNA** 🧬  
