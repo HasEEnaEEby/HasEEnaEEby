@@ -27,7 +27,6 @@ Because…
 🤖 I **talk to my code like it’s my pet.** (Still waiting for it to respond…)  
 🔥 **Let’s build something amazing, break it, and fix it together!**  
 
----
 ## 📊 **GitHub Stats & Activity**
 <div align="center">
 
@@ -35,6 +34,8 @@ Because…
   <img src="https://github-profile-trophy.vercel.app/?username=HasEEnaEEby&theme=radical&no-bg=true&margin-w=15" height="180px" />
   
   <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=HasEEnaEEby&show_icons=true&theme=radical" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasEEnaEEby&theme=radical" height="180px" />
   
   <br/>
@@ -51,7 +52,6 @@ Because…
 
 ---
 ### 🌍 **Let's Connect!**
-📩 **Ask me anything tech-related!** (or recommend a good Netflix show!)  
 📧 **Email:** [eesah479@gmail.com](mailto:eesah479@gmail.com)  
 
 ---
