@@ -37,11 +37,6 @@ I **talk to my code like it’s my pet.** (Still waiting for it to respond…)
   
   <img src="https://github-readme-stats.vercel.app/api?username=HasEEnaEEby&show_icons=true&theme=radical" height="180px" />
   <br/>
-  
-  🎨 **My Code Language DNA** 🧬  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasEEnaEEby&layout=compact&theme=radical" height="180px" />
-  
-  <br/>
 
   📜 **GitHub Journey So Far** 🚀  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasEEnaEEby&theme=radical" width="80%"/>
